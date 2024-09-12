@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="app_text"><u><b>底線文字</b></u></string>
+    <string name="app_text_newline"><b>按鈕三\n換行</b></string>
+</resources>
